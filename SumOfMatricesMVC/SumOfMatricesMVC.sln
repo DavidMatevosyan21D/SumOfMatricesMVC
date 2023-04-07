@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfMatricesMVC", "SumOfMatricesMVC\SumOfMatricesMVC.csproj", "{264E6F26-D1CD-4E64-84C6-135254E7D261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264E6F26-D1CD-4E64-84C6-135254E7D261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264E6F26-D1CD-4E64-84C6-135254E7D261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264E6F26-D1CD-4E64-84C6-135254E7D261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264E6F26-D1CD-4E64-84C6-135254E7D261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E992F3A8-D907-4CFA-A765-70F07C973D61}
+	EndGlobalSection
+EndGlobal

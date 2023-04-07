@@ -1,0 +1,15 @@
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\bin\Debug\net6.0\SumOfMatricesMVC.exe
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\bin\Debug\net6.0\SumOfMatricesMVC.deps.json
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\bin\Debug\net6.0\SumOfMatricesMVC.runtimeconfig.json
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\bin\Debug\net6.0\SumOfMatricesMVC.dll
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\bin\Debug\net6.0\SumOfMatricesMVC.pdb
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.csproj.AssemblyReference.cache
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.AssemblyInfoInputs.cache
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.AssemblyInfo.cs
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.csproj.CoreCompileInputs.cache
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.dll
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\refint\SumOfMatricesMVC.dll
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.pdb
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\SumOfMatricesMVC.genruntimeconfig.cache
+C:\Users\Revision\source\repos\SumOfMatricesMVC\SumOfMatricesMVC\obj\Debug\net6.0\ref\SumOfMatricesMVC.dll
